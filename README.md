@@ -1,1 +1,1 @@
-# Open-Text-Adventure-Engine
+# Open Text Adventure Engine (OTAE)
